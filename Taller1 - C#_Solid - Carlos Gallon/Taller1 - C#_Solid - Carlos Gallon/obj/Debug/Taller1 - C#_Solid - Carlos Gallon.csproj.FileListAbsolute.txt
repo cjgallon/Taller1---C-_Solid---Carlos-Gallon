@@ -1,0 +1,12 @@
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\Taller1 - C#_Solid - Carlos Gallon.exe.config
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\Taller1 - C#_Solid - Carlos Gallon.exe
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\Taller1 - C#_Solid - Carlos Gallon.pdb
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\obj\Debug\Taller1 - C#_Solid - Carlos Gallon.csproj.AssemblyReference.cache
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\obj\Debug\Taller1 - C#_Solid - Carlos Gallon.csproj.CoreCompileInputs.cache
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\obj\Debug\Taller1 - C#_Solid - Carlos Gallon.exe
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\obj\Debug\Taller1 - C#_Solid - Carlos Gallon.pdb
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\Hunspellx64.dll
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\Hunspellx86.dll
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\NHunspell.dll
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\bin\Debug\NHunspell.pdb
+C:\Users\cgallon\Downloads\Proyectos\Taller1 - C#_Solid - Carlos Gallon\Taller1 - C#_Solid - Carlos Gallon\obj\Debug\Taller1 - C#_Solid - Carlos Gallon.csproj.CopyComplete
